@@ -6212,10 +6212,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-native-securerandom@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-0.1.1.tgz#f130623a412c338b0afadedbc204c5cbb8bf2070"
-  integrity sha1-8TBiOkEsM4sK+t7bwgTFy7i/IHA=
+react-native-securerandom@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-1.0.0.tgz#1cff2f727c90c9ec3318b42dbf825a628b53b49b"
+  integrity sha512-lnhcsWloFzMN/HffyDBlh4VlqdhDH8uxEzUIH3aJPgC1PxV6OKZkvAk409EwsAhcmG/z3yZuVKegKpUr5IM9ug==
   dependencies:
     base64-js "*"
 
